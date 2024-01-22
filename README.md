@@ -4,6 +4,8 @@
 
 This repository hosts the analysis and visualization of US crime data spanning from 1980 to 2014 using Microsoft Power BI. The Power Query editor played a pivotal role in the Extract, Transform, Load (ETL) process, focusing on the transformation and cleaning of the data.
 
+![US Crime Report](./USCrime.png)
+
 ## Insights from the Power BI Report
 **1. Total Incidents of Murder or Manslaughter**
 * The Municipal police records a staggering total of over 10 million incidents of murder or manslaughter.

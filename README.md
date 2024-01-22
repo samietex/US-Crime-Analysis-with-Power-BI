@@ -19,6 +19,8 @@ This repository hosts the analysis and visualization of US crime data spanning f
 
 The Power BI report is designed to provide a visually engaging and insightful exploration of the US crime data. It leverages the capabilities of Power Query and the visualization tools in Power BI to facilitate a comprehensive understanding of crime patterns over the specified timeframe.
 
+Here is a link to the interactive report: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNGY0YzhmNjEtM2VjNy00MjEzLTljZmYtOTRiNmE1NGE2MGU2IiwidCI6IjkxODk1NjgwLTdkMDMtNDg4My1iMmJhLTUxMDk2MzM2YzI4MyJ9&pageName=ReportSection)
+
 ## How to Use
 
 **1. Clone the Repository:**
